@@ -124,7 +124,7 @@ header {
   url(../images/nageur.svg), url(../images/ombrelle.svg), linear-gradient( #a7cedd, #265488);
   width: 100%;
   background-position: 5% 50%, 95% 50%, center;
-  
+  background-size: 50px 50px, 50px 50px, auto;
 
   
   /*
