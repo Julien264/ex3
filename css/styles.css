@@ -119,13 +119,13 @@ header {
 .bouton2 {
   display: flex;
   justify-content: center;
-
+  background-repeat: no-repeat;
   background-image: 
-  url(nageur.svg), url(ombrelle.svg),
-  linear-gradient(
-    #a7cedd,
-    #265488
-  ) ;
+  url(../images/nageur.svg), url(../images/ombrelle.svg), linear-gradient( #a7cedd, #265488);
+  width: 100%;
+  background-position: 5% 50%, 95% 50%, center;
+  
+
   
   /*
         #5
